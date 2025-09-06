@@ -1,25 +1,11 @@
-# 👋 Hi, I'm Yaren Yildiz  
+👋 Hi, I'm Yaren Yildiz  
 
-🎯 Junior Back-End Developer with experience in **Java, Spring Boot, and SQL**.  
-💡 Passionate about building scalable back-end solutions and continuously improving my skills.  
+🎯 **Junior Back-End Developer** with experience in **Java, Spring Boot, and SQL**.  
+💡 Continuously learning and improving my back-end development and database management skills.  
+🎓 Currently attending the **Patika+ Backend Web Development Bootcamp**, gaining hands-on experience with **Java, Spring Boot, Web APIs, and databases**.  
+💻 Also gained practical experience during internships, developing **web applications** and managing **databases**.  
 
----
-
-## 🎓 Education
-- **Patika+ Backend Web Development Bootcamp (2025)**  
-  Java, Spring Boot, Web APIs, Database Management  
-- **Amasya University – B.Sc. in Computer Engineering (2024)**  
-
----
-
-## 🚀 Projects
-- **[U-Net Based Tumor Segmentation](https://github.com/yarenYLDZ/UNET_SEGMENTATION)**  
-  Deep learning model for tumor segmentation on medical images.  
-
-- **Meeting Room Reservation System**  
-  Developed during internship using Java & JavaScript.  
-
----
+🌱 Passionate about building **scalable back-end solutions** and growing as a developer.
 
 ## 🛠️ Tech Stack
 
