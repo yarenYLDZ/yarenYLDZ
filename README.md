@@ -1,3 +1,20 @@
+
+<p align="left">
+  <h1>Merhaba! 👋 Ben KullanıcıAdınız</h1>
+  <p>Ben bir yazılım geliştiricisiyim / öğrenciyim / teknoloji meraklısıyım. Burada projelerimi ve öğrenme yolculuğumu paylaşıyorum.</p>
+  <p>
+    <a href="https://www.linkedin.com/in/kullaniciadiniz" target="_blank">LinkedIn</a> •
+    <a href="https://github.com/kullaniciadiniz" target="_blank">GitHub</a> •
+    <a href="https://twitter.com/kullaniciadiniz" target="_blank">Twitter</a>
+  </p>
+</p>
+
+<p align="right">
+  <img src="kiz.png" alt="Profil Görselim" width="150">
+</p>
+
+---
+
 # 👋 Hi, I'm Yaren Yildiz  
 
 🎯 Junior Back-End Developer with experience in **Java, Spring Boot, and SQL**.  
