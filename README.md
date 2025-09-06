@@ -1,4 +1,4 @@
-👋 Hi, I'm Yaren Yildiz  
+👋 **Hi, I'm Yaren Yildiz** 
 
 🎯 **Junior Back-End Developer** with experience in **Java, Spring Boot, and SQL**.  
 💡 Continuously learning and improving my back-end development and database management skills.  
@@ -6,6 +6,8 @@
 💻 Also gained practical experience during internships, developing **web applications** and managing **databases**.  
 
 🌱 Passionate about building **scalable back-end solutions** and growing as a developer.
+
+
 
 ## 🛠️ Tech Stack
 
@@ -28,6 +30,7 @@
 </p>
 
 ---
+
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yaren-yildiz)  
